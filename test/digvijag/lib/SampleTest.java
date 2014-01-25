@@ -9,4 +9,8 @@ public class SampleTest {
     public void test_one(){
         assertEquals(1,1);
     }
+    @Test
+    public void test_two(){
+        assertEquals(2,2);
+    }
 }
